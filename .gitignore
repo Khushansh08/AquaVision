@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+aquavision/
+
+# VS Code
+.vscode/
+
+# Generated/output files
+runs/
+uploads/
+
+# OS files
+.DS_Store
+
+# Large datasets
+dataset/
+
+# Model weights
+models/
